@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI & Data Science Student | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src=""C:\Users\ASUS\Downloads\linkedin_profile-removebg-preview.png"" alt="Varun Visoriya" width="200">
+  <img src="C:\Users\ASUS\Downloads\linkedin_profile-removebg-preview.png" alt="Varun Visoriya" width="200">
 </p>
 
 
